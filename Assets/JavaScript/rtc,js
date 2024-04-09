@@ -1,0 +1,25 @@
+// Example JavaScript code to handle WebRTC and speech-to-text functionality
+
+function startWhisper(targetUserId) {
+    // Code to initiate WebRTC call to targetUserId
+}
+
+function acceptWhisper() {
+    // Code to accept incoming WebRTC call
+}
+
+function endWhisper() {
+    // Code to end ongoing WebRTC call
+}
+
+function handleReceivedAudio(audioData) {
+    // Send audioData to speech-to-text service for transcription
+    // Receive transcribed text and send it to Unity
+    var text = transcribeAudio(audioData);
+    unityInstance.SendMessage("WhisperManager", "DisplayText", text);
+}
+
+function transcribeAudio(audioData) {
+    // Code to send audioData to speech-to-text service and receive transcribed text
+    // Return the transcribed text
+}

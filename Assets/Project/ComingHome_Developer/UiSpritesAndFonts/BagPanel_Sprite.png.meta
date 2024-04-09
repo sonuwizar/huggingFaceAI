@@ -1,0 +1,534 @@
+fileFormatVersion: 2
+guid: 6149ed9b8a1df4947b8a66d5cd9fd2fe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3915646078055902020
+    second: BagPanel_Sprite_0
+  - first:
+      213: 7085758752689382273
+    second: BagPanel_Sprite_1
+  - first:
+      213: 5194650879706351636
+    second: BagPanel_Sprite_2
+  - first:
+      213: 2704298885622665476
+    second: BagPanel_Sprite_3
+  - first:
+      213: 4930625083669014488
+    second: BagPanel_Sprite_4
+  - first:
+      213: -4856536276731431180
+    second: BagPanel_Sprite_5
+  - first:
+      213: -6994174005319492494
+    second: BagPanel_Sprite_6
+  - first:
+      213: 841600810069163743
+    second: BagPanel_Sprite_7
+  - first:
+      213: -540951331367213423
+    second: BagPanel_Sprite_8
+  - first:
+      213: -2321242463746916488
+    second: BagPanel_Sprite_9
+  - first:
+      213: 6331342468137060201
+    second: BagPanel_Sprite_10
+  - first:
+      213: -2371297758714809998
+    second: BagPanel_Sprite_11
+  - first:
+      213: 1018467955111796643
+    second: BagPanel_Sprite_12
+  - first:
+      213: -5544158939959061441
+    second: BagPanel_Sprite_13
+  - first:
+      213: 5163064260914281747
+    second: BagPanel_Sprite_14
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BagPanel_Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1218
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4935353a4d8a9c0800000000000000
+      internalID: -3915646078055902020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagPanel_Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1218
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1836a2a2b0ca55260800000000000000
+      internalID: 7085758752689382273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagPanel_Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1176
+        width: 160
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4184111e37b171840800000000000000
+      internalID: 5194650879706351636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagPanel_Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1184
+        width: 160
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401160c2289978520800000000000000
+      internalID: 2704298885622665476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagPanel_Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 1285
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7e8b8d3691d6440800000000000000
+      internalID: 4930625083669014488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagPanel_Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 1272
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6ff92ccfd1a9cb0800000000000000
+      internalID: -4856536276731431180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagPanel_Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 927
+        width: 217
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c19a38cc3bfee90800000000000000
+      internalID: -6994174005319492494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagPanel_Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 929
+        width: 217
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde7ade4a77fdab00800000000000000
+      internalID: 841600810069163743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagPanel_Sprite_8
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 932
+        width: 217
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196251551a72e78f0800000000000000
+      internalID: -540951331367213423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagPanel_Sprite_9
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 932
+        width: 217
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87fffc6174a49cfd0800000000000000
+      internalID: -2321242463746916488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagPanel_Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 667
+        width: 217
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96787ac0e627dd750800000000000000
+      internalID: 6331342468137060201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagPanel_Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 670
+        width: 217
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271bf1b8045771fd0800000000000000
+      internalID: -2371297758714809998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagPanel_Sprite_12
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 672
+        width: 217
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af9e878533522e00800000000000000
+      internalID: 1018467955111796643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagPanel_Sprite_13
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 672
+        width: 217
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f341f6d71d03f03b0800000000000000
+      internalID: -5544158939959061441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagPanel_Sprite_14
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 88
+        width: 1370
+        height: 502
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 70, y: 70, z: 110, w: 70}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d7f481793e6a740800000000000000
+      internalID: 5163064260914281747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a04ca05b2cdf62a4aa49d1194ca36c4e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BagPanel_Sprite_0: -3915646078055902020
+      BagPanel_Sprite_1: 7085758752689382273
+      BagPanel_Sprite_10: 6331342468137060201
+      BagPanel_Sprite_11: -2371297758714809998
+      BagPanel_Sprite_12: 1018467955111796643
+      BagPanel_Sprite_13: -5544158939959061441
+      BagPanel_Sprite_14: 5163064260914281747
+      BagPanel_Sprite_2: 5194650879706351636
+      BagPanel_Sprite_3: 2704298885622665476
+      BagPanel_Sprite_4: 4930625083669014488
+      BagPanel_Sprite_5: -4856536276731431180
+      BagPanel_Sprite_6: -6994174005319492494
+      BagPanel_Sprite_7: 841600810069163743
+      BagPanel_Sprite_8: -540951331367213423
+      BagPanel_Sprite_9: -2321242463746916488
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

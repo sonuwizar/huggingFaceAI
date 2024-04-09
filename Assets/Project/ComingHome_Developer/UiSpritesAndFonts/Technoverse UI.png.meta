@@ -1,0 +1,474 @@
+fileFormatVersion: 2
+guid: d0f918c56528b194f849e4b9ee13b64f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Technoverse UI_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1129
+        width: 1746
+        height: 1068
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 50, y: 50, z: 50, w: 50}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9a14db3b5bac7418a6c8b78d7b7fc6
+      internalID: -1135880898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Technoverse UI_2
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 1965
+        width: 1599
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 55, y: 55, z: 55, w: 55}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5c1ac7f43c700429770d9234353528
+      internalID: 707427495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Technoverse UI_8
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 1093
+        width: 1220
+        height: 823
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ae89f0be6bb4b41ac6921f251f7430
+      internalID: -1477282415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Technoverse UI_10
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 1624
+        width: 291
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 70, y: 70, z: 70, w: 70}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb50e3a5edf59c488d021e073f0932a
+      internalID: -802335089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Technoverse UI_20
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 1472
+        width: 278
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 20, y: 20, z: 20, w: 20}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a02d75c2efcae46aa30983f6afa2fd
+      internalID: 2116441053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Technoverse UI_21
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 1333
+        width: 285
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 50, y: 38, z: 50, w: 30}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd63174df9c32d469509a4b8dd6a6e3
+      internalID: -111153662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Technoverse UI_26
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 1143
+        width: 50
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e836aed76e03e40823ea0b638f9b7f
+      internalID: 853894104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Technoverse UI_27
+      rect:
+        serializedVersion: 2
+        x: 2029
+        y: 1143
+        width: 50
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f2cc9102329e74d946ccd598271002
+      internalID: 1071949084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Technoverse UI_41
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 358
+        width: 27
+        height: 663
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08dd5202c18ef8e4c8f154ce7486c916
+      internalID: 297816999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Technoverse UI_48
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 225
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3436c77c32afb740a52cd1fe978c3a1
+      internalID: -871593516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Technoverse UI_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 30
+        width: 1614
+        height: 1040
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 70, y: 70, z: 70, w: 70}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38eb63931b759484785313a1c4f458c5
+      internalID: -1309973879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Technoverse UI_3
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 229
+        width: 789
+        height: 786
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 100, y: 100, z: 100, w: 100}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf99bb8c525b6442b1fed371225def0
+      internalID: -148452523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4460e8fc4c3db8948bb9f109574d16d3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Technoverse UI_0: -1135880898
+      Technoverse UI_1: -1309973879
+      Technoverse UI_10: -802335089
+      Technoverse UI_11: -1027720624
+      Technoverse UI_12: 171114059
+      Technoverse UI_13: -1032022807
+      Technoverse UI_14: 1803296549
+      Technoverse UI_15: -1180043124
+      Technoverse UI_16: 1130802562
+      Technoverse UI_17: 1942986927
+      Technoverse UI_18: 1730000885
+      Technoverse UI_19: -26959671
+      Technoverse UI_2: 707427495
+      Technoverse UI_20: 2116441053
+      Technoverse UI_21: -111153662
+      Technoverse UI_22: -771694756
+      Technoverse UI_23: -211455830
+      Technoverse UI_24: -695268163
+      Technoverse UI_25: -1484961121
+      Technoverse UI_26: 853894104
+      Technoverse UI_27: 1071949084
+      Technoverse UI_28: 640091064
+      Technoverse UI_29: -1278885969
+      Technoverse UI_3: -148452523
+      Technoverse UI_30: 1997949921
+      Technoverse UI_31: 607823438
+      Technoverse UI_32: 1231160229
+      Technoverse UI_33: -233680894
+      Technoverse UI_34: 1254412139
+      Technoverse UI_35: 120936604
+      Technoverse UI_36: -1926086632
+      Technoverse UI_37: 689390741
+      Technoverse UI_38: 1368049858
+      Technoverse UI_39: -334620044
+      Technoverse UI_4: -1121484792
+      Technoverse UI_40: -622349731
+      Technoverse UI_41: 297816999
+      Technoverse UI_42: 374559530
+      Technoverse UI_43: -925068241
+      Technoverse UI_44: -458483159
+      Technoverse UI_45: -1129133530
+      Technoverse UI_46: -549520069
+      Technoverse UI_47: -232543546
+      Technoverse UI_48: -871593516
+      Technoverse UI_49: 2112382403
+      Technoverse UI_5: 2112480275
+      Technoverse UI_50: -1490182238
+      Technoverse UI_51: 636511837
+      Technoverse UI_52: -1700966853
+      Technoverse UI_53: -1920918891
+      Technoverse UI_54: 956245770
+      Technoverse UI_55: -1701618892
+      Technoverse UI_6: 924096782
+      Technoverse UI_7: 1651823079
+      Technoverse UI_8: -1477282415
+      Technoverse UI_9: 1438799230
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

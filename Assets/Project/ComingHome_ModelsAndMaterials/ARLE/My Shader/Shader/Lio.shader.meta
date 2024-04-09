@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: d9e82e551b036484ca3249cf067a96ab
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _Lieo_Colour: {fileID: 2800000, guid: a7bacad7a8829884fadb08ef88a3562a, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

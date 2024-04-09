@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: cominghome_mvw_1_Sounds
+  m_EditorClassIdentifier: 
+  m_GroupName: cominghome_mvw_1_Sounds
+  m_Data:
+    m_SerializedData: []
+  m_GUID: f85387fe789791148b43b1f16d902d51
+  m_SerializeEntries:
+  - m_GUID: 43aeaf2d54663e54ba755437fa2258d2
+    m_Address: Assets/Project/ComingHome_Developer/SoundsAndFx/ARLE_Sounds
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 57702ddd044bd30498d066f34cbc1b1b
+    m_Address: Assets/Project/ComingHome_Developer/SoundsAndFx/AppGameMenuAudio.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 48f5375b85a655749bf5b949903cd32e
+    m_Address: Assets/Project/ComingHome_Developer/SoundsAndFx/CutSceneAudio.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 285dadd83001b6943a58f6147678e89f
+    m_Address: Assets/Project/ComingHome_Developer/SoundsAndFx/CutSceneWithBlinkEffect.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 83b60949ab0b1ec46842916f2edf6c78
+    m_Address: Assets/Project/ComingHome_Developer/SoundsAndFx/Engine_Motor.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3716641021a02c14c965c1340909b61c
+    m_Address: Assets/Project/ComingHome_Developer/SoundsAndFx/Footsteps Running
+      On Asphalt.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 23c5b4c0aaf52cd4abb1bd6662e329e1
+    m_Address: Assets/Project/ComingHome_Developer/SoundsAndFx/GamePlayAudio.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 33f28a244de59a249be40fb8cc9ec085
+    m_Address: Assets/Project/ComingHome_Developer/SoundsAndFx/Magic Explosion.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cdf8943582e04dc45978eccb01d4808c
+    m_Address: Assets/Project/ComingHome_Developer/SoundsAndFx/Magic Portal Spell.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 44691965f0aafd14b98f9d43a99d66ea, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 7614b0989959fa043958d2aa193130cf, type: 2}
+    - {fileID: 11400000, guid: 41a87f843ff53f34b8072b4088dae01d, type: 2}

@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: cominghome_mvw_1_Prefabs
+  m_EditorClassIdentifier: 
+  m_GroupName: cominghome_mvw_1_Prefabs
+  m_Data:
+    m_SerializedData: []
+  m_GUID: b8c25d818c54eb54aab0ff1acee347bf
+  m_SerializeEntries:
+  - m_GUID: 8ac32589cfebd124b9521a471e883fc1
+    m_Address: Assets/Project/ComingHome_Developer/Prefabs/AI_Activity_Prefabs
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8556d8dbb7a279e40880c93dd9cd6c86
+    m_Address: Assets/Project/ComingHome_Developer/Prefabs/Drone_Activity_Prefabs
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6106f10eb63c9cf4fb1e99fdd6125f5e
+    m_Address: Assets/Project/ComingHome_Developer/Scripts/Introduction_Scripts/TextWriter/DescPanelParent.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 44691965f0aafd14b98f9d43a99d66ea, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: a162c2f9cd3ee1641a52baadd290bae2, type: 2}
+    - {fileID: 11400000, guid: 707d5b94f9c12f84b9d3a5d5a8940a00, type: 2}

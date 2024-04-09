@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: cominghome_mvw_1_Loading
+  m_EditorClassIdentifier: 
+  m_GroupName: cominghome_mvw_1_Loading
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 86fcf634b7ca9da46a98b77b2987a0ca
+  m_SerializeEntries:
+  - m_GUID: b71aab3a06c05054183e6034bfa8494a
+    m_Address: Assets/Project/ComingHome_Developer/UiSpritesAndFonts/QuickSand
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 32e11b9b9e8052b4fb133f51927215d9
+    m_Address: Assets/Project/ComingHome_Developer/LocalPackages/Loading_V2/Loading_Sprite.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3450922ee16aaaa419d4ef809240fd88
+    m_Address: Assets/Project/ComingHome_Developer/LocalPackages/Loading_V2/Loading_AnimClip.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 391a6b2f5690e844c9276deaacc38a5c
+    m_Address: Assets/Project/ComingHome_Developer/LocalPackages/Loading_V2/Loading_Animator.controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d3abdd99c4bd0f14f9f3d448c1614c42
+    m_Address: Assets/Project/ComingHome_Developer/LocalPackages/Loading_V2/Loading 
+      Bar.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5402604ecf4ac4a48a7d840654942861
+    m_Address: Assets/Project/ComingHome_Developer/LocalPackages/Loading_V2/Loading.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8ab59a79b4d90d64b9cb45e351427d2e
+    m_Address: Assets/Project/ComingHome_Developer/LocalPackages/Loading_V2/LoadingPanel.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 44691965f0aafd14b98f9d43a99d66ea, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 2397f3cdd97728645a9f153b22cb3777, type: 2}
+    - {fileID: 11400000, guid: 5b3d7b7b03a6dd04690af1d01ba64d2b, type: 2}

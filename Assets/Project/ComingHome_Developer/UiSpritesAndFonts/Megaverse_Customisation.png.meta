@@ -1,0 +1,885 @@
+fileFormatVersion: 2
+guid: 4baa7523b25c45442af103bcf77c5c13
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Megaverse_Customisation_0
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 2824
+        width: 353
+        height: 351
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26e27203b0625d438e205538fafb6e8
+      internalID: 1436122383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megaverse_Customisation_1
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 2824
+        width: 353
+        height: 351
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1fe44b0d7699149aae87f229e25117
+      internalID: -1999271107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megaverse_Customisation_2
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 2856
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f284fd51ed028c64db3a390e5b622bb9
+      internalID: -1773107615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megaverse_Customisation_3
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 2887
+        width: 224
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4f83e96deadbd448dcf89c30769688
+      internalID: 1015848296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megaverse_Customisation_4
+      rect:
+        serializedVersion: 2
+        x: 2049
+        y: 2933
+        width: 129
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631192016562ff544a38933b2af49c65
+      internalID: -1895941410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megaverse_Customisation_5
+      rect:
+        serializedVersion: 2
+        x: 2297
+        y: 2893
+        width: 234
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a920d9f191cbd64ab78ec74044a74b5
+      internalID: 1119137243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megaverse_Customisation_6
+      rect:
+        serializedVersion: 2
+        x: 2539
+        y: 2893
+        width: 233
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789df18b2c9dab2478f1aa0152b5be4c
+      internalID: 1907217663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megaverse_Customisation_7
+      rect:
+        serializedVersion: 2
+        x: 2779
+        y: 2893
+        width: 235
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899fb1d6e756b5e41af6bcdacebf4c08
+      internalID: -1324407409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megaverse_Customisation_8
+      rect:
+        serializedVersion: 2
+        x: 3020
+        y: 2893
+        width: 235
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ec57cc067a21a4392870cf710508db
+      internalID: 537592000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megaverse_Customisation_9
+      rect:
+        serializedVersion: 2
+        x: 3262
+        y: 2891
+        width: 233
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8056898267a4c314da15efa1eee1ba65
+      internalID: -406059967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megaverse_Customisation_10
+      rect:
+        serializedVersion: 2
+        x: 3503
+        y: 2891
+        width: 234
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd170990b1c88f643b9b4455b3018819
+      internalID: 419822948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megaverse_Customisation_11
+      rect:
+        serializedVersion: 2
+        x: 3744
+        y: 2893
+        width: 233
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a91ab5192366794a8d0d681a337e03f
+      internalID: 1509468481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megaverse_Customisation_12
+      rect:
+        serializedVersion: 2
+        x: 3984
+        y: 2893
+        width: 234
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e236f234b7dfe4fad390d48ef2146b
+      internalID: -1001573777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megaverse_Customisation_13
+      rect:
+        serializedVersion: 2
+        x: 4296
+        y: 2893
+        width: 234
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c33c63bbcaa8a4c926d730cfc2cb77
+      internalID: 1927239693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megaverse_Customisation_14
+      rect:
+        serializedVersion: 2
+        x: 4542
+        y: 2893
+        width: 222
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aaf382c6e9ca4b4985d7f6628ac21f9
+      internalID: -1767246030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megaverse_Customisation_15
+      rect:
+        serializedVersion: 2
+        x: 5003
+        y: 2893
+        width: 233
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db338f9a77055d42addab3d539f75ef
+      internalID: 1323285877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megaverse_Customisation_16
+      rect:
+        serializedVersion: 2
+        x: 5259
+        y: 2891
+        width: 234
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b428058b3fae55d48b4482e342f81cef
+      internalID: -1721522048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megaverse_Customisation_17
+      rect:
+        serializedVersion: 2
+        x: 5742
+        y: 2896
+        width: 225
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9098dd024e53398428caf588b6b4812a
+      internalID: -834615880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megaverse_Customisation_18
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1885
+        width: 761
+        height: 454
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788e749cd177fe14da4a691bb77299bd
+      internalID: -1922890948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megaverse_Customisation_19
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1932
+        width: 489
+        height: 483
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c70a0b3e47022f439b0be6d7c90ab85
+      internalID: 132450939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megaverse_Customisation_20
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 2088
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05cd62f67aa5e224abe7563705bfd65b
+      internalID: 1154708845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megaverse_Customisation_21
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 2106
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840baa9eac1b1994e8fe551579e13eb2
+      internalID: -1725033613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megaverse_Customisation_22
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 2121
+        width: 438
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed29005a042b9fd439d5facf229a5445
+      internalID: -516471909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megaverse_Customisation_23
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 2124
+        width: 436
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1733f527cc074d047abe59398d2cf4b9
+      internalID: 149643914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megaverse_Customisation_24
+      rect:
+        serializedVersion: 2
+        x: 3008
+        y: 2035
+        width: 129
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f12c38ecce250e4c8899a54aff6dca6
+      internalID: -273354822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megaverse_Customisation_25
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1313
+        width: 1443
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 50, y: 60, z: 50, w: 40}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec2451e4419726489c2c1c111c84fca
+      internalID: 648528805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megaverse_Customisation_26
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 488
+        width: 1685
+        height: 1113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 100, y: 115, z: 115, w: 100}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4892719780bd47a4a89dbf3ebc1ecc33
+      internalID: 1999897733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megaverse_Customisation_27
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 558
+        width: 492
+        height: 574
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 60, y: 70, z: 60, w: 50}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65290c0f0e2d62e4d9bfb5f20514fda9
+      internalID: -858878417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megaverse_Customisation_28
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 566
+        width: 492
+        height: 574
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 60, y: 70, z: 60, w: 50}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81076061ae2bef44cbd086e1989b5947
+      internalID: -1744571753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megaverse_Customisation_29
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 2861
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e35dbca871b754090a3706d7ee75ec
+      internalID: 975757523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megaverse_Customisation_30
+      rect:
+        serializedVersion: 2
+        x: 4766
+        y: 2893
+        width: 227
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6566f5eb754b17a46a7f25c86c89d99e
+      internalID: -977990799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megaverse_Customisation_31
+      rect:
+        serializedVersion: 2
+        x: 5497
+        y: 2891
+        width: 230
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f42e90485b21ec498b0ac4aeda90731
+      internalID: -547959304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Megaverse_Customisation_32
+      rect:
+        serializedVersion: 2
+        x: 5968
+        y: 2896
+        width: 225
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec9a6580b0a30543a9ba8e9a99640da
+      internalID: 187506386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7bbc39a2549170a47b9169bd338eeb2c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Megaverse_Customisation_0: 1436122383
+      Megaverse_Customisation_1: -1999271107
+      Megaverse_Customisation_10: 419822948
+      Megaverse_Customisation_11: 1509468481
+      Megaverse_Customisation_12: -1001573777
+      Megaverse_Customisation_13: 1927239693
+      Megaverse_Customisation_14: -1767246030
+      Megaverse_Customisation_15: 1323285877
+      Megaverse_Customisation_16: -1721522048
+      Megaverse_Customisation_17: -834615880
+      Megaverse_Customisation_18: -1922890948
+      Megaverse_Customisation_19: 132450939
+      Megaverse_Customisation_2: -1773107615
+      Megaverse_Customisation_20: 1154708845
+      Megaverse_Customisation_21: -1725033613
+      Megaverse_Customisation_22: -516471909
+      Megaverse_Customisation_23: 149643914
+      Megaverse_Customisation_24: -273354822
+      Megaverse_Customisation_25: 648528805
+      Megaverse_Customisation_26: 1999897733
+      Megaverse_Customisation_27: -858878417
+      Megaverse_Customisation_28: -1744571753
+      Megaverse_Customisation_29: 975757523
+      Megaverse_Customisation_3: 1015848296
+      Megaverse_Customisation_30: -977990799
+      Megaverse_Customisation_31: -547959304
+      Megaverse_Customisation_32: 187506386
+      Megaverse_Customisation_4: -1895941410
+      Megaverse_Customisation_5: 1119137243
+      Megaverse_Customisation_6: 1907217663
+      Megaverse_Customisation_7: -1324407409
+      Megaverse_Customisation_8: 537592000
+      Megaverse_Customisation_9: -406059967
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

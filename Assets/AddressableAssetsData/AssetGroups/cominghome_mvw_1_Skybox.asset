@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: cominghome_mvw_1_Skybox
+  m_EditorClassIdentifier: 
+  m_GroupName: cominghome_mvw_1_Skybox
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 435ca37833cf9144fb23233ebe187457
+  m_SerializeEntries:
+  - m_GUID: 4c2cfbd46a69e4546ae895bfb1f7812e
+    m_Address: Assets/Project/ComingHome_ModelsAndMaterials/SkyBoxes/Night_Sky.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7169c8213243bbb4d930b4bed8303b23
+    m_Address: Assets/Project/ComingHome_ModelsAndMaterials/SkyBoxes/Night_SkyBox.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 44691965f0aafd14b98f9d43a99d66ea, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 4f6f9b9649c97964f88879ff5d41ea06, type: 2}
+    - {fileID: 11400000, guid: af1f1c0d1d829c1429c818397e8d12fd, type: 2}

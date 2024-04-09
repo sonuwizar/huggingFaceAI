@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: cominghome_mvw_1_Ui2
+  m_EditorClassIdentifier: 
+  m_GroupName: cominghome_mvw_1_Ui2
+  m_Data:
+    m_SerializedData: []
+  m_GUID: a02aaf45a1830cc4bbceb833f1b8f778
+  m_SerializeEntries:
+  - m_GUID: 8acdb21ae1f9a6943a0b92aaa8021bab
+    m_Address: Assets/Project/ComingHome_Developer/UiSpritesAndFonts/Menu_Icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0d9df60df41ce404a87e97f9113c1907
+    m_Address: Assets/Project/ComingHome_Developer/UiSpritesAndFonts/Von_Icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fbb4243911f18bc46b8434328b62ebe1
+    m_Address: Assets/Project/ComingHome_Developer/UiSpritesAndFonts/Robot_Icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7328ca00a06dab94c93db788fcaba2f6
+    m_Address: Assets/Project/ComingHome_Developer/UiSpritesAndFonts/ui active.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 38b36b87a62022340947ca9ff457853c
+    m_Address: Assets/Project/ComingHome_Developer/UiSpritesAndFonts/icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 44691965f0aafd14b98f9d43a99d66ea, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 09fd28f8045db7545bd9105db3d1cfa3, type: 2}
+    - {fileID: 11400000, guid: 69158b7da9d17a84fa66f8e341332a24, type: 2}

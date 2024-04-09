@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 0746d8fbe45b1e149bccace78f9e494a
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _Eraser_Color: {fileID: 2800000, guid: 8cb15afe1814e724e859482492c0b4f6, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

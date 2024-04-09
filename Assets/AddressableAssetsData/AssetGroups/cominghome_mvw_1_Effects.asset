@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: cominghome_mvw_1_Effects
+  m_EditorClassIdentifier: 
+  m_GroupName: cominghome_mvw_1_Effects
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 092fd7f856f8526458136d833c778915
+  m_SerializeEntries:
+  - m_GUID: d7a99e8e41b756c4b9d88867649d0d79
+    m_Address: Assets/Project/ComingHome_Developer/Effects/ArrowEffect
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 86cacbcaccaefdc4c841519afc361c6a
+    m_Address: Assets/Project/ComingHome_Developer/Effects/AuraEffects
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b6fdf7a88ed807f41bacd3953adc7d3c
+    m_Address: Assets/Project/ComingHome_Developer/Effects/MagicCircleEffect
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 44691965f0aafd14b98f9d43a99d66ea, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 2a040b1f286148a4a9154fe01728ca14, type: 2}
+    - {fileID: 11400000, guid: 355104932e055a34a844c3dd6dbdc875, type: 2}

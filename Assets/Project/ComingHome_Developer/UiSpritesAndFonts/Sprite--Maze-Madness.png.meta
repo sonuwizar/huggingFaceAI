@@ -1,0 +1,647 @@
+fileFormatVersion: 2
+guid: 303cc48813dfa1d449ff5d715d2d8bdb
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprite--Maze-Madness_0
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 5005
+        width: 828
+        height: 1024
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7415086a6617d4348a94e873ee29a581
+      internalID: -378948653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite--Maze-Madness_1
+      rect:
+        serializedVersion: 2
+        x: 5239
+        y: 4868
+        width: 1144
+        height: 1161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dbb20c2e0a54b041a1f48afe799d54d
+      internalID: 1207393913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite--Maze-Madness_4
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 5024
+        width: 517
+        height: 991
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271a85ee44d49054c85a47b1de2d633e
+      internalID: 989710239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite--Maze-Madness_5
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 4986
+        width: 787
+        height: 1001
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566907f42f4634d4ab4de03a2f67c1f8
+      internalID: 781715675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite--Maze-Madness_6
+      rect:
+        serializedVersion: 2
+        x: 2729
+        y: 4982
+        width: 2339
+        height: 1025
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f784262256c2283449efc8e291ae32bb
+      internalID: -750254181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite--Maze-Madness_17
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 3922
+        width: 634
+        height: 870
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949618cb2f9a8c24491267a2a9b1f79f
+      internalID: -1716941095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite--Maze-Madness_19
+      rect:
+        serializedVersion: 2
+        x: 2261
+        y: 4335
+        width: 628
+        height: 343
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a3c18016243db41b2b840568d2692c
+      internalID: -228227340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite--Maze-Madness_23
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 4331
+        width: 263
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb485004dde5ee41a89ff983f46aedc
+      internalID: -903707878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite--Maze-Madness_24
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 4354
+        width: 162
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6438c5138458ab341bdd74a8554bb8cf
+      internalID: -1197281178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite--Maze-Madness_26
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 4324
+        width: 102
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd98c62cccf5ce04dafb392dfbfd7fc7
+      internalID: -247092394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite--Maze-Madness_29
+      rect:
+        serializedVersion: 2
+        x: 3298
+        y: 4374
+        width: 147
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68cdc89eb9d3167418484e923d9bdae7
+      internalID: -873351997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite--Maze-Madness_30
+      rect:
+        serializedVersion: 2
+        x: 3663
+        y: 4421
+        width: 128
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d968401c046614db426e15416a4c4b
+      internalID: -2073463406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite--Maze-Madness_33
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 4411
+        width: 119
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b4909fa8b7b7d40a5363a2c4093337
+      internalID: 408204073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite--Maze-Madness_43
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 3419
+        width: 965
+        height: 372
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9a577a93177dc48b72e1403340653d
+      internalID: -1825947428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite--Maze-Madness_48
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 3452
+        width: 330
+        height: 329
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908cfd06d87420b4389934196b668235
+      internalID: -2005102615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite--Maze-Madness_51
+      rect:
+        serializedVersion: 2
+        x: 2962
+        y: 3402
+        width: 945
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb09bbab90cfec42b73722b45c074cf
+      internalID: -822338189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite--Maze-Madness_55
+      rect:
+        serializedVersion: 2
+        x: 4257
+        y: 3425
+        width: 1812
+        height: 327
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2900f9167f46989468e59d0da71d9a41
+      internalID: -241250551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite--Maze-Madness_57
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 3451
+        width: 474
+        height: 294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0033bbd0b61a52a43bfdfcb5ba5543d4
+      internalID: 459263751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite--Maze-Madness_94
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 856
+        width: 3795
+        height: 2096
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b08be0345538b4395371dc8d1551cd
+      internalID: 645506610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Sprite--Maze-Madness_0: -378948653
+      Sprite--Maze-Madness_1: 1207393913
+      Sprite--Maze-Madness_10: 889747327
+      Sprite--Maze-Madness_11: -777097470
+      Sprite--Maze-Madness_12: -1247442961
+      Sprite--Maze-Madness_13: 1086876004
+      Sprite--Maze-Madness_14: 345073870
+      Sprite--Maze-Madness_15: -1634733435
+      Sprite--Maze-Madness_16: -1390945876
+      Sprite--Maze-Madness_17: -1716941095
+      Sprite--Maze-Madness_18: 1299101216
+      Sprite--Maze-Madness_19: -228227340
+      Sprite--Maze-Madness_2: 370209465
+      Sprite--Maze-Madness_20: 1958416346
+      Sprite--Maze-Madness_21: -828394743
+      Sprite--Maze-Madness_22: 1732780589
+      Sprite--Maze-Madness_23: -903707878
+      Sprite--Maze-Madness_24: -1197281178
+      Sprite--Maze-Madness_25: 1937141745
+      Sprite--Maze-Madness_26: -247092394
+      Sprite--Maze-Madness_27: 310515517
+      Sprite--Maze-Madness_28: -473967404
+      Sprite--Maze-Madness_29: -873351997
+      Sprite--Maze-Madness_3: 341829573
+      Sprite--Maze-Madness_30: -2073463406
+      Sprite--Maze-Madness_31: 1830614259
+      Sprite--Maze-Madness_32: 866331339
+      Sprite--Maze-Madness_33: 408204073
+      Sprite--Maze-Madness_34: 976376582
+      Sprite--Maze-Madness_35: 937150202
+      Sprite--Maze-Madness_36: -1580192659
+      Sprite--Maze-Madness_37: -1625888592
+      Sprite--Maze-Madness_38: 2025288795
+      Sprite--Maze-Madness_39: 1308475333
+      Sprite--Maze-Madness_4: 989710239
+      Sprite--Maze-Madness_40: 935763461
+      Sprite--Maze-Madness_41: 521164810
+      Sprite--Maze-Madness_42: 1211000175
+      Sprite--Maze-Madness_43: -1825947428
+      Sprite--Maze-Madness_44: -1956118805
+      Sprite--Maze-Madness_45: 794225235
+      Sprite--Maze-Madness_46: 1943235741
+      Sprite--Maze-Madness_47: -584427110
+      Sprite--Maze-Madness_48: -2005102615
+      Sprite--Maze-Madness_49: -759290721
+      Sprite--Maze-Madness_5: 781715675
+      Sprite--Maze-Madness_50: 540787218
+      Sprite--Maze-Madness_51: -822338189
+      Sprite--Maze-Madness_52: 1541591026
+      Sprite--Maze-Madness_53: -1327816991
+      Sprite--Maze-Madness_54: -1560722786
+      Sprite--Maze-Madness_55: -241250551
+      Sprite--Maze-Madness_56: 520515078
+      Sprite--Maze-Madness_57: 459263751
+      Sprite--Maze-Madness_58: -255128881
+      Sprite--Maze-Madness_59: -1610925485
+      Sprite--Maze-Madness_6: -750254181
+      Sprite--Maze-Madness_60: -1351309841
+      Sprite--Maze-Madness_61: -1148115880
+      Sprite--Maze-Madness_62: -1359144724
+      Sprite--Maze-Madness_63: -1672883468
+      Sprite--Maze-Madness_64: -1949285466
+      Sprite--Maze-Madness_65: -681786652
+      Sprite--Maze-Madness_66: -1080484330
+      Sprite--Maze-Madness_67: -1412745948
+      Sprite--Maze-Madness_68: -751810693
+      Sprite--Maze-Madness_69: -202781772
+      Sprite--Maze-Madness_7: 1321426337
+      Sprite--Maze-Madness_70: 1202285643
+      Sprite--Maze-Madness_71: 1132459401
+      Sprite--Maze-Madness_72: 1918555655
+      Sprite--Maze-Madness_73: -1888560622
+      Sprite--Maze-Madness_74: 860399799
+      Sprite--Maze-Madness_75: -579950472
+      Sprite--Maze-Madness_76: -850018467
+      Sprite--Maze-Madness_77: -471699345
+      Sprite--Maze-Madness_78: 1930397923
+      Sprite--Maze-Madness_79: -1540969860
+      Sprite--Maze-Madness_8: -134158660
+      Sprite--Maze-Madness_80: 1370469493
+      Sprite--Maze-Madness_81: -1998270241
+      Sprite--Maze-Madness_82: 1753189587
+      Sprite--Maze-Madness_83: -770343652
+      Sprite--Maze-Madness_84: -211214308
+      Sprite--Maze-Madness_85: -1635197627
+      Sprite--Maze-Madness_86: 1113115232
+      Sprite--Maze-Madness_87: 1607917677
+      Sprite--Maze-Madness_88: -627292356
+      Sprite--Maze-Madness_89: 1364427282
+      Sprite--Maze-Madness_9: 2105410959
+      Sprite--Maze-Madness_90: -1641578831
+      Sprite--Maze-Madness_91: 169493803
+      Sprite--Maze-Madness_92: -1225611863
+      Sprite--Maze-Madness_93: 1477703797
+      Sprite--Maze-Madness_94: 645506610
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

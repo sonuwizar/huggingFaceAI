@@ -1,0 +1,1697 @@
+fileFormatVersion: 2
+guid: 63565425dc960cc45a60f97b43858c6a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8979187479639909148
+    second: Sprite- games STEM-03_0
+  - first:
+      213: 1941232541970559345
+    second: Sprite- games STEM-03_1
+  - first:
+      213: 7249873781983874298
+    second: Sprite- games STEM-03_2
+  - first:
+      213: -358290573179982547
+    second: Sprite- games STEM-03_3
+  - first:
+      213: -1784224626471172603
+    second: Sprite- games STEM-03_4
+  - first:
+      213: -5116501837529756808
+    second: Sprite- games STEM-03_5
+  - first:
+      213: -721837840696851896
+    second: Sprite- games STEM-03_6
+  - first:
+      213: -4330098177344798295
+    second: Sprite- games STEM-03_7
+  - first:
+      213: -4789735652860990770
+    second: Sprite- games STEM-03_8
+  - first:
+      213: 8204918925753989397
+    second: Sprite- games STEM-03_9
+  - first:
+      213: -1351312220119559748
+    second: Sprite- games STEM-03_10
+  - first:
+      213: -2523171669191385405
+    second: Sprite- games STEM-03_11
+  - first:
+      213: 1390346052806160686
+    second: Sprite- games STEM-03_12
+  - first:
+      213: 3092968835605290849
+    second: Sprite- games STEM-03_13
+  - first:
+      213: -4234783232822676378
+    second: Sprite- games STEM-03_14
+  - first:
+      213: -438309758079450312
+    second: Sprite- games STEM-03_15
+  - first:
+      213: 467540241470141665
+    second: Sprite- games STEM-03_16
+  - first:
+      213: -4326733145705222129
+    second: Sprite- games STEM-03_17
+  - first:
+      213: 6576546817580766170
+    second: Sprite- games STEM-03_18
+  - first:
+      213: 1267666794619794337
+    second: Sprite- games STEM-03_19
+  - first:
+      213: -5853022162912096216
+    second: Sprite- games STEM-03_20
+  - first:
+      213: 2894790696531383258
+    second: Sprite- games STEM-03_21
+  - first:
+      213: 1879652006681357676
+    second: Sprite- games STEM-03_22
+  - first:
+      213: 9036255170151169512
+    second: Sprite- games STEM-03_23
+  - first:
+      213: -2906452995119213106
+    second: Sprite- games STEM-03_24
+  - first:
+      213: 3875688689356065933
+    second: Sprite- games STEM-03_25
+  - first:
+      213: 1568058998704656752
+    second: Sprite- games STEM-03_26
+  - first:
+      213: 7127338989936389698
+    second: Sprite- games STEM-03_27
+  - first:
+      213: -4512172795972979940
+    second: Sprite- games STEM-03_28
+  - first:
+      213: -7081255544071175665
+    second: Sprite- games STEM-03_29
+  - first:
+      213: 1096233214904071172
+    second: Sprite- games STEM-03_30
+  - first:
+      213: 8403046220605393123
+    second: Sprite- games STEM-03_31
+  - first:
+      213: 2688147239468679537
+    second: Sprite- games STEM-03_32
+  - first:
+      213: 8449890173652135964
+    second: Sprite- games STEM-03_33
+  - first:
+      213: -2965596669386347537
+    second: Sprite- games STEM-03_34
+  - first:
+      213: 5466830168974268321
+    second: Sprite- games STEM-03_35
+  - first:
+      213: -4658322507802165150
+    second: Sprite- games STEM-03_36
+  - first:
+      213: 3485722028152989105
+    second: Sprite- games STEM-03_37
+  - first:
+      213: 4622566473993569964
+    second: Sprite- games STEM-03_38
+  - first:
+      213: -1420556837338733803
+    second: Sprite- games STEM-03_39
+  - first:
+      213: 2078858338329893135
+    second: Sprite- games STEM-03_40
+  - first:
+      213: -990125759182686267
+    second: Sprite- games STEM-03_41
+  - first:
+      213: -3951249435455002053
+    second: Sprite- games STEM-03_42
+  - first:
+      213: -8265593725544652149
+    second: Sprite- games STEM-03_43
+  - first:
+      213: 5631492863479161845
+    second: Sprite- games STEM-03_44
+  - first:
+      213: 4795224436534104117
+    second: Sprite- games STEM-03_45
+  - first:
+      213: 803566543681424446
+    second: Sprite- games STEM-03_46
+  - first:
+      213: -3347868268144668706
+    second: Sprite- games STEM-03_47
+  - first:
+      213: 21984718476583263
+    second: Sprite- games STEM-03_48
+  - first:
+      213: 4355785062951072048
+    second: Sprite- games STEM-03_49
+  - first:
+      213: -8955147551172490711
+    second: Sprite- games STEM-03_50
+  - first:
+      213: 8311883692317349116
+    second: Sprite- games STEM-03_51
+  - first:
+      213: -8928883780426879940
+    second: Sprite- games STEM-03_52
+  - first:
+      213: 7729521292218203286
+    second: Sprite- games STEM-03_53
+  - first:
+      213: -8130944475516737702
+    second: Sprite- games STEM-03_54
+  - first:
+      213: 7114431750062320714
+    second: Sprite- games STEM-03_55
+  - first:
+      213: 522624172142285770
+    second: Sprite- games STEM-03_56
+  - first:
+      213: -7774424858247650913
+    second: Sprite- games STEM-03_57
+  - first:
+      213: 932692221608300648
+    second: Sprite- games STEM-03_58
+  - first:
+      213: 3133068104988531471
+    second: Sprite- games STEM-03_59
+  - first:
+      213: -2775169178351221418
+    second: Sprite- games STEM-03_60
+  - first:
+      213: -4287138073684232399
+    second: Sprite- games STEM-03_61
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprite- games STEM-03_0
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 2243
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec9d60af84836380800000000000000
+      internalID: -8979187479639909148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite- games STEM-03_1
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 2245
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171759a36b4a0fa10800000000000000
+      internalID: 1941232541970559345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite- games STEM-03_2
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 2245
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc01911bc9bc9460800000000000000
+      internalID: 7249873781983874298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite- games STEM-03_3
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 2239
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d6c3b3f98170bf0800000000000000
+      internalID: -358290573179982547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite- games STEM-03_4
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 2239
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5068eabc7292d37e0800000000000000
+      internalID: -1784224626471172603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite- games STEM-03_5
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 2228
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87bc769efa88ef8b0800000000000000
+      internalID: -5116501837529756808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite- games STEM-03_6
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 2178
+        width: 165
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84244dfee448bf5f0800000000000000
+      internalID: -721837840696851896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite- games STEM-03_7
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 2178
+        width: 166
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a10cc846a668e3c0800000000000000
+      internalID: -4330098177344798295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite- games STEM-03_8
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 2188
+        width: 146
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca62330dc0778db0800000000000000
+      internalID: -4789735652860990770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite- games STEM-03_9
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 2155
+        width: 180
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519327c9a4abdd170800000000000000
+      internalID: 8204918925753989397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite- games STEM-03_10
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 2211
+        width: 106
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1112302bc2f3de0800000000000000
+      internalID: -1351312220119559748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite- games STEM-03_11
+      rect:
+        serializedVersion: 2
+        x: 2192
+        y: 2151
+        width: 417
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce94863cb4ebfcd0800000000000000
+      internalID: -2523171669191385405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite- games STEM-03_12
+      rect:
+        serializedVersion: 2
+        x: 2683
+        y: 2156
+        width: 208
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21b0606e508b4310800000000000000
+      internalID: 1390346052806160686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite- games STEM-03_13
+      rect:
+        serializedVersion: 2
+        x: 3015
+        y: 2204
+        width: 108
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f5b9bc4ce6cea20800000000000000
+      internalID: 3092968835605290849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite- games STEM-03_14
+      rect:
+        serializedVersion: 2
+        x: 3179
+        y: 2204
+        width: 109
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664f2da26170b35c0800000000000000
+      internalID: -4234783232822676378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite- games STEM-03_15
+      rect:
+        serializedVersion: 2
+        x: 3437
+        y: 2141
+        width: 141
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8334618e89fcae9f0800000000000000
+      internalID: -438309758079450312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite- games STEM-03_16
+      rect:
+        serializedVersion: 2
+        x: 3641
+        y: 2216
+        width: 89
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4370b5f590d7600800000000000000
+      internalID: 467540241470141665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite- games STEM-03_17
+      rect:
+        serializedVersion: 2
+        x: 3846
+        y: 2235
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00f454c02b54f3c0800000000000000
+      internalID: -4326733145705222129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite- games STEM-03_18
+      rect:
+        serializedVersion: 2
+        x: 3962
+        y: 2237
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad390ae8c76944b50800000000000000
+      internalID: 6576546817580766170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite- games STEM-03_19
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 2241
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3fedabb38a79110800000000000000
+      internalID: 1267666794619794337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite- games STEM-03_20
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1936
+        width: 482
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 40, y: 20, z: 50, w: 20}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820d22d7a53e5cea0800000000000000
+      internalID: -5853022162912096216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite- games STEM-03_21
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1929
+        width: 494
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 40, y: 20, z: 50, w: 20}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3dbdd1dcc5c2820800000000000000
+      internalID: 2894790696531383258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite- games STEM-03_22
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 1908
+        width: 428
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6da79f8a8dd51a10800000000000000
+      internalID: 1879652006681357676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite- games STEM-03_23
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 1905
+        width: 311
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8edb5ac733a376d70800000000000000
+      internalID: 9036255170151169512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite- games STEM-03_24
+      rect:
+        serializedVersion: 2
+        x: 2178
+        y: 1938
+        width: 136
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec59c8566643aa7d0800000000000000
+      internalID: -2906452995119213106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite- games STEM-03_25
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 1868
+        width: 235
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 40, y: 40, z: 40, w: 40}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c4115245639c530800000000000000
+      internalID: 3875688689356065933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite- games STEM-03_26
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 1938
+        width: 136
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07155a4f95dd2c510800000000000000
+      internalID: 1568058998704656752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite- games STEM-03_27
+      rect:
+        serializedVersion: 2
+        x: 3053
+        y: 1938
+        width: 161
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e23f09c0569e260800000000000000
+      internalID: 7127338989936389698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite- games STEM-03_28
+      rect:
+        serializedVersion: 2
+        x: 3281
+        y: 1879
+        width: 135
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1379d2afba8161c0800000000000000
+      internalID: -4512172795972979940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite- games STEM-03_29
+      rect:
+        serializedVersion: 2
+        x: 3470
+        y: 1908
+        width: 122
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f024fdbc9935abd90800000000000000
+      internalID: -7081255544071175665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite- games STEM-03_30
+      rect:
+        serializedVersion: 2
+        x: 3659
+        y: 1910
+        width: 117
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40477550d4a963f00800000000000000
+      internalID: 1096233214904071172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite- games STEM-03_31
+      rect:
+        serializedVersion: 2
+        x: 3835
+        y: 1908
+        width: 122
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e88f52340e9d9470800000000000000
+      internalID: 8403046220605393123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite- games STEM-03_32
+      rect:
+        serializedVersion: 2
+        x: 4038
+        y: 1910
+        width: 117
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1714a700ca73e4520800000000000000
+      internalID: 2688147239468679537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite- games STEM-03_33
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1575
+        width: 246
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10799fe75a044570800000000000000
+      internalID: 8449890173652135964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite- games STEM-03_34
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1588
+        width: 74
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb2526aa8518d6d0800000000000000
+      internalID: -2965596669386347537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite- games STEM-03_35
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1588
+        width: 73
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7991df2151edb40800000000000000
+      internalID: 5466830168974268321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite- games STEM-03_36
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 1588
+        width: 74
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260ce392c505a5fb0800000000000000
+      internalID: -4658322507802165150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite- games STEM-03_37
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1588
+        width: 72
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b520d967b5cf5030800000000000000
+      internalID: 3485722028152989105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite- games STEM-03_38
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 1588
+        width: 74
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6440977b7a62040800000000000000
+      internalID: 4622566473993569964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite- games STEM-03_39
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 1588
+        width: 76
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5132c27351b294ce0800000000000000
+      internalID: -1420556837338733803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite- games STEM-03_40
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 1588
+        width: 74
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09138af4a699dc10800000000000000
+      internalID: 2078858338329893135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite- games STEM-03_41
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 1588
+        width: 75
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7b3f03edd5242f0800000000000000
+      internalID: -990125759182686267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite- games STEM-03_42
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 1588
+        width: 76
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3aedb4b2975a29c0800000000000000
+      internalID: -3951249435455002053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite- games STEM-03_43
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 1588
+        width: 72
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82a633bc46ba4d80800000000000000
+      internalID: -8265593725544652149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite- games STEM-03_44
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 1549
+        width: 468
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 40, y: 40, z: 40, w: 40}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3a2d22ce4172e40800000000000000
+      internalID: 5631492863479161845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite- games STEM-03_45
+      rect:
+        serializedVersion: 2
+        x: 2408
+        y: 1444
+        width: 352
+        height: 353
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53053e5083f0c8240800000000000000
+      internalID: 4795224436534104117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite- games STEM-03_46
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 1427
+        width: 385
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c05859387d62b00800000000000000
+      internalID: 803566543681424446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite- games STEM-03_47
+      rect:
+        serializedVersion: 2
+        x: 3333
+        y: 1386
+        width: 771
+        height: 467
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 161, y: 124, z: 144, w: 105}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf4f624c8bf981d0800000000000000
+      internalID: -3347868268144668706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite- games STEM-03_48
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 599
+        width: 300
+        height: 675
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 78, y: 107, z: 56, w: 93}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51a8472cfa1e4000800000000000000
+      internalID: 21984718476583263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite- games STEM-03_49
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 694
+        width: 311
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031b623df6bd27c30800000000000000
+      internalID: 4355785062951072048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite- games STEM-03_50
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 645
+        width: 638
+        height: 586
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a8725afbce8b380800000000000000
+      internalID: -8955147551172490711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite- games STEM-03_51
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 673
+        width: 1071
+        height: 527
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 60, y: 60, z: 60, w: 60}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf410fe0e2eb95370800000000000000
+      internalID: 8311883692317349116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite- games STEM-03_52
+      rect:
+        serializedVersion: 2
+        x: 3115
+        y: 688
+        width: 492
+        height: 502
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ca8ea428b361480800000000000000
+      internalID: -8928883780426879940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite- games STEM-03_53
+      rect:
+        serializedVersion: 2
+        x: 3737
+        y: 1102
+        width: 71
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69cfb7a99a6c44b60800000000000000
+      internalID: 7729521292218203286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite- games STEM-03_54
+      rect:
+        serializedVersion: 2
+        x: 3737
+        y: 1001
+        width: 71
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5766604415192f80800000000000000
+      internalID: -8130944475516737702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite- games STEM-03_55
+      rect:
+        serializedVersion: 2
+        x: 3737
+        y: 900
+        width: 71
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ca9399bf98bb260800000000000000
+      internalID: 7114431750062320714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite- games STEM-03_56
+      rect:
+        serializedVersion: 2
+        x: 3737
+        y: 800
+        width: 71
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3d2936aebb04700800000000000000
+      internalID: 522624172142285770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite- games STEM-03_57
+      rect:
+        serializedVersion: 2
+        x: 3737
+        y: 699
+        width: 71
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91ae2738c1bb1490800000000000000
+      internalID: -7774424858247650913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite- games STEM-03_58
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 195
+        width: 1026
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 318, y: 43, z: 186, w: 55}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8609bb942a691fc00800000000000000
+      internalID: 932692221608300648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite- games STEM-03_59
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 167
+        width: 1002
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 153, y: 79, z: 145, w: 44}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b92fe77d4ea7b20800000000000000
+      internalID: 3133068104988531471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite- games STEM-03_60
+      rect:
+        serializedVersion: 2
+        x: 2549
+        y: 202
+        width: 461
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 50, y: 55, z: 50, w: 30}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65543c4f55e9c79d0800000000000000
+      internalID: -2775169178351221418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite- games STEM-03_61
+      rect:
+        serializedVersion: 2
+        x: 3134
+        y: 200
+        width: 529
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137bffed2a60184c0800000000000000
+      internalID: -4287138073684232399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 28d2257a484a9054c933af7ab1e4f42a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Sprite- games STEM-03_0: -8979187479639909148
+      Sprite- games STEM-03_1: 1941232541970559345
+      Sprite- games STEM-03_10: -1351312220119559748
+      Sprite- games STEM-03_11: -2523171669191385405
+      Sprite- games STEM-03_12: 1390346052806160686
+      Sprite- games STEM-03_13: 3092968835605290849
+      Sprite- games STEM-03_14: -4234783232822676378
+      Sprite- games STEM-03_15: -438309758079450312
+      Sprite- games STEM-03_16: 467540241470141665
+      Sprite- games STEM-03_17: -4326733145705222129
+      Sprite- games STEM-03_18: 6576546817580766170
+      Sprite- games STEM-03_19: 1267666794619794337
+      Sprite- games STEM-03_2: 7249873781983874298
+      Sprite- games STEM-03_20: -5853022162912096216
+      Sprite- games STEM-03_21: 2894790696531383258
+      Sprite- games STEM-03_22: 1879652006681357676
+      Sprite- games STEM-03_23: 9036255170151169512
+      Sprite- games STEM-03_24: -2906452995119213106
+      Sprite- games STEM-03_25: 3875688689356065933
+      Sprite- games STEM-03_26: 1568058998704656752
+      Sprite- games STEM-03_27: 7127338989936389698
+      Sprite- games STEM-03_28: -4512172795972979940
+      Sprite- games STEM-03_29: -7081255544071175665
+      Sprite- games STEM-03_3: -358290573179982547
+      Sprite- games STEM-03_30: 1096233214904071172
+      Sprite- games STEM-03_31: 8403046220605393123
+      Sprite- games STEM-03_32: 2688147239468679537
+      Sprite- games STEM-03_33: 8449890173652135964
+      Sprite- games STEM-03_34: -2965596669386347537
+      Sprite- games STEM-03_35: 5466830168974268321
+      Sprite- games STEM-03_36: -4658322507802165150
+      Sprite- games STEM-03_37: 3485722028152989105
+      Sprite- games STEM-03_38: 4622566473993569964
+      Sprite- games STEM-03_39: -1420556837338733803
+      Sprite- games STEM-03_4: -1784224626471172603
+      Sprite- games STEM-03_40: 2078858338329893135
+      Sprite- games STEM-03_41: -990125759182686267
+      Sprite- games STEM-03_42: -3951249435455002053
+      Sprite- games STEM-03_43: -8265593725544652149
+      Sprite- games STEM-03_44: 5631492863479161845
+      Sprite- games STEM-03_45: 4795224436534104117
+      Sprite- games STEM-03_46: 803566543681424446
+      Sprite- games STEM-03_47: -3347868268144668706
+      Sprite- games STEM-03_48: 21984718476583263
+      Sprite- games STEM-03_49: 4355785062951072048
+      Sprite- games STEM-03_5: -5116501837529756808
+      Sprite- games STEM-03_50: -8955147551172490711
+      Sprite- games STEM-03_51: 8311883692317349116
+      Sprite- games STEM-03_52: -8928883780426879940
+      Sprite- games STEM-03_53: 7729521292218203286
+      Sprite- games STEM-03_54: -8130944475516737702
+      Sprite- games STEM-03_55: 7114431750062320714
+      Sprite- games STEM-03_56: 522624172142285770
+      Sprite- games STEM-03_57: -7774424858247650913
+      Sprite- games STEM-03_58: 932692221608300648
+      Sprite- games STEM-03_59: 3133068104988531471
+      Sprite- games STEM-03_6: -721837840696851896
+      Sprite- games STEM-03_60: -2775169178351221418
+      Sprite- games STEM-03_61: -4287138073684232399
+      Sprite- games STEM-03_7: -4330098177344798295
+      Sprite- games STEM-03_8: -4789735652860990770
+      Sprite- games STEM-03_9: 8204918925753989397
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

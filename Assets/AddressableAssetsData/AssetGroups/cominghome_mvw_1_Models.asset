@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: cominghome_mvw_1_Models
+  m_EditorClassIdentifier: 
+  m_GroupName: cominghome_mvw_1_Models
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 1295d54962dd41f41909f1fb159524f8
+  m_SerializeEntries:
+  - m_GUID: 039f57b7adc5f49489c438dca546f2f0
+    m_Address: Assets/Project/ComingHome_ModelsAndMaterials/Models/Bag
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3becae6a9755521439e25282b21c4dfa
+    m_Address: Assets/Project/ComingHome_ModelsAndMaterials/Models/Door
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 634b0b956b0432f4d8a9e794fe190975
+    m_Address: Assets/Project/ComingHome_ModelsAndMaterials/Models/JammoCharacter
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1994ab427ff2bd84c86d485497bc0180
+    m_Address: Assets/Project/ComingHome_ModelsAndMaterials/Models/Portal Machine
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7d2d32ef5a101494ba28f96f5fbbe3fb
+    m_Address: Assets/Project/ComingHome_ModelsAndMaterials/Models/RobotSphere
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: afe99b2faba30ea4580e4acad5863249
+    m_Address: Assets/Project/ComingHome_ModelsAndMaterials/Models/Sci-Fi Styled
+      Modular Pack
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5f9ba897c01376547a78d11a1006b51c
+    m_Address: Assets/Project/ComingHome_ModelsAndMaterials/Models/Table 1 Experiment
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fdc3feb10a20af24292b1af50c2cf27f
+    m_Address: Assets/Project/ComingHome_ModelsAndMaterials/Models/voxel_scifi_free
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 44691965f0aafd14b98f9d43a99d66ea, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: b77594787a25a9e42b756424b6909ac9, type: 2}
+    - {fileID: 11400000, guid: dd491c073a5e29a42b51de2444f531e0, type: 2}
